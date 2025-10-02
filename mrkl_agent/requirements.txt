@@ -1,0 +1,6 @@
+requests
+streamlit
+python-dotenv
+wikipedia
+serpapi
+google-search-results
